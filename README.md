@@ -358,8 +358,8 @@ canadaTax('kindness', 0);
 // LOG: That item is exempt from taxation.
 // LOG: The total tax due is: $0.00.
 
-mexicoTax('tacos el pastor', 350);
-// LOG: In Mexico, tacos el pastor costs $3.50.
+mexicoTax('tacos al pastor', 350);
+// LOG: In Mexico, tacos al pastor costs $3.50.
 // LOG: That item is not exempt from taxation.
 // LOG: The total tax due is: $0.17.
 ```
