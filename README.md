@@ -453,3 +453,4 @@ Nowhere in that function is `countryName`, `taxRate`, or `exemptItems` defined, 
 [stack overflow]: https://stackoverflow.com/questions/111102/how-do-javascript-closures-work
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-advanced-functions-first-class-functions-practice-readme'>First-Class Functions Practice</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG First-Class Functions Practice</p>

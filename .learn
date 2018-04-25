@@ -8,3 +8,5 @@ tags:
 languages:
   - javascript
 resources: 5
+
+parent_template: git@github.com:learn-co-curriculum/js-advanced-functions-first-class-functions-practice-readme.git
